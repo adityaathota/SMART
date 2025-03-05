@@ -1,5 +1,7 @@
 # SMART- Stock Market Application for Real-time Trading
 
+![image](https://github.com/user-attachments/assets/39911311-d4b0-4a0a-9545-9945860d6d5c)
+
 Follow these steps to set up and run the trading bot:
 
 ## 1. Create a Virtual Environment
